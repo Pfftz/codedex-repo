@@ -1,0 +1,8 @@
+Instructions
+Using the commands from this exercise, push your code to GitHub! 🥳
+
+First, check the status using git status.
+
+Then, push to GitHub using git push -u origin main.
+
+Check to make sure this was completed successfully by refreshing the GitHub page! Your code is online!
